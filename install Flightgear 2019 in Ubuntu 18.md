@@ -24,7 +24,9 @@ To start installing and using software from a Personal Package Archive, you firs
     
     
 Now, as a one-off, you should tell your system to pull down the latest list of software from each archive it knows about, including the PPA you just added.
+    
     sudo apt-get update
 
 Now you're ready to start installing software from the PPA! 
+
     sudo apt install flightgear
